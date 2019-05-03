@@ -1,0 +1,43 @@
+#headerRow{
+
+
+width: 100vw;
+height:40vh;
+
+}
+#headerCont{
+  width:20vh;
+  height:10vh;
+}
+
+header{
+  background-image:url('../images/stylus.png');
+  background-size:cover;
+  width:100vw:
+}
+
+main{
+  background:#469ae0;
+  width:100vw;
+  height:40vh;
+}
+#mainAdverti{
+  width:100vw;
+  height:40vh;
+}
+#mainContent>.col .col-md-4 {
+  width:100vw;
+  height:40vw;
+}
+
+.row>img{
+  margin-top: 2rem;
+  width:10vw;
+  height:10vh;
+}
+
+.row>img:hover{
+  border-color: red;
+  
+
+}
